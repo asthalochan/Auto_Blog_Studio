@@ -2,7 +2,7 @@
 
 ## Overview
 The Automatic Blog Writer is a Python-based system that:
-1. Gathers articles from popular sources such as Towards Data Science, Dev.to, KDNuggets, and NVIDIA Blog.
+1. Gathers articles from popular sources such as Towards Data Science, Dev.to, KDNuggets,DeeplearningAI, NVIDIA Blog etc.
 2. Clusters and ranks topics using machine learning embeddings and KMeans.
 3. Interacts with users via Telegram to choose topics.
 4. Automatically generates SEO-friendly blogs, titles, tags, and images using LLMs and Stable Diffusion.
@@ -134,5 +134,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Your Name  
 [GitHub Profile](https://github.com/asthalochan)  
 [LinkedIn Profile](https://www.linkedin.com/in/asthalochan-mohanta/)  
-```
-
