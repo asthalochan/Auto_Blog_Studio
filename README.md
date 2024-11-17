@@ -1,7 +1,4 @@
-Here’s the complete **README.md** file that you can copy and paste:
-
-```markdown
-# Automatic Blog Writer
+### Auto_Blog_Studio
 
 ## Overview
 The Automatic Blog Writer is a Python-based system that:
