@@ -1,4 +1,4 @@
-### Auto_Blog_Studio
+### AUTO BLOG STUDIO
 
 ## Overview
 The Automatic Blog Writer is a Python-based system that:
@@ -87,26 +87,6 @@ Edit the following values in `main.py` to match your setup:
 4. Receive notifications on Telegram for every step.
 
 ---
-
-## Project Structure
-```
-automatic_blog_writer/
-│
-├── main.py                   # Entry point of the application
-├── data_preparation.py       # Fetches and processes articles
-├── embedding_model.py        # Embedding generation and clustering
-├── blog_generation.py        # Blog and content generation logic
-├── telegram_integration.py   # Telegram bot interaction
-├── s3_manager.py             # AWS S3 token management
-├── medium_integration.py     # Medium API integration
-├── blogger_integration.py    # Blogger API integration
-├── requirements.txt          # Dependencies
-└── README.md                 # Project instructions
-```
-
----
-
-
 
 ## Contributions
 We welcome contributions from the community! Here's how you can help:
