@@ -16,7 +16,7 @@ The Automatic Blog Writer is a Python-based system that:
 - **Blog Generation**: Creates detailed and engaging blogs based on user-selected topics.
 - **Image Generation**: Generates visuals using Stable Diffusion for a polished blog.
 - **Publishing**: Posts to Medium and Google Blogger with minimal effort.
-- **User Interaction**: Telegram bot interface for seamless topic selection.
+- **User Interaction**: Telegram bot interface for seamless top 10 topic selection.
 
 ---
 
