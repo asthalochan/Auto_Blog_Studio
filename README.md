@@ -112,7 +112,7 @@ Please ensure that your contributions are well-documented and tested.
 ## Support
 If you encounter any issues, feel free to:
 - Open an issue on GitHub with a detailed description of the problem.
-- Contact the author via email at [mohantaastha@gmail.com].
+- Contact the author via email at mohantaastha@gmail.com.
 - Post your questions in the discussions section of the repository.
 
 ---
